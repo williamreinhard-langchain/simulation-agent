@@ -88,6 +88,7 @@ modular-workshops/
 │       ├── AGENTS.md
 │       └── skills/
 │           ├── linkedin-post/SKILL.md
+│           ├── slack-post/SKILL.md
 │           └── twitter-post/SKILL.md
 ├── images/                         (diagrams used by the notebooks)
 └── modules/
